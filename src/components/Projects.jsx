@@ -38,7 +38,7 @@ const projects = [
     title: "Mini LinkedIn",
     description:
       "Authentication, profile, text-only posts, persistent login, protected routes.",
-    tech: "MERN, Tailwind CSS",
+    tech: "MERN, Tailwind CSS, Vercel, Render",
     live: "https://mini-linked-in-frontend-six.vercel.app/",
     github: {
       frontend: "https://github.com/YashdhanAgale/miniLinkedIn-Frontend",
