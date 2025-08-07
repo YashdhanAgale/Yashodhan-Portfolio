@@ -1,12 +1,44 @@
-# React + Vite
+# 🚀 Yashodhan Agale – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal, professional portfolio built with React and Tailwind CSS. Showcases my skills and selected full-stack projects.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Visit Portfolio](https://yashodhan-portfolio.vercel.app/)
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS
+- Vite
+- Deployed on Vercel
+
+## 📂 Featured Projects
+
+### CodeMate
+
+Real-time dev chat & collaboration.  
+**Tech:** MERN, WebSockets, Redux  
+[Live](http://54.174.26.89/) • [Frontend](https://github.com/YashdhanAgale/CodeMate-Frontend) • [Backend](https://github.com/YashdhanAgale/CodeMate-Backend)
+
+### Note-taking App
+
+OTP login with secure note CRUD.  
+**Tech:** MERN  
+[Live](https://note-taking-frontend-pied.vercel.app/signin) • [Frontend](https://github.com/YashdhanAgale/Note-taking-frontend) • [Backend](https://github.com/YashdhanAgale/Note-taking-Backend)
+
+### Telemedicine App
+
+JWT auth, session tracking, admin dashboard.  
+**Tech:** MERN, WebSockets  
+[Live](https://telemedicine-frontend-two.vercel.app/) • [Frontend](https://github.com/YashdhanAgale/Telemedicine-Frontend) • [Backend](https://github.com/YashdhanAgale/Telemedicine-Backend)
+
+### Mini LinkedIn
+
+Auth, protected routes, basic feed system.  
+**Tech:** MERN  
+[Live](https://mini-linked-in-frontend-six.vercel.app/) • [Frontend](https://github.com/YashdhanAgale/miniLinkedIn-Frontend) • [Backend](https://github.com/YashdhanAgale/miniLinkedIn-Backend)
+
+## 📬 Contact
+
+📧 yashodhan.agale@gmail.com
